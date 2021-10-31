@@ -26,7 +26,7 @@ Implement KNN model
 
 
 ## KNN K= 100
-![image](https://user-images.githubusercontent.com/53411455/139564380-649946f0-4be4-49f4-9bce-15b7033f54c5.png)
+                  ![image](https://user-images.githubusercontent.com/53411455/139564380-649946f0-4be4-49f4-9bce-15b7033f54c5.png)
 
 
                    
@@ -34,6 +34,7 @@ Implement KNN model
 
 ## Finding optimal K
 To find the optimal k, you simply find the value of k that gives the highest accuracy. Or, in this case, you will want to find the lowest misclassification error (MSE). The following code snippet finds the MSE for each k, and then finds the k with the lowest MSE. It then plots a line chart of MSE against k.
+
 ![image](https://user-images.githubusercontent.com/53411455/139564385-ae4699ee-53cc-4024-9d61-76a35fe44f28.png)
 
                          
