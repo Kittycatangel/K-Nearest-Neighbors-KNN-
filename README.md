@@ -26,7 +26,7 @@ Implement KNN model
 
 
 ## KNN K= 100
-                  ![image](https://user-images.githubusercontent.com/53411455/139564380-649946f0-4be4-49f4-9bce-15b7033f54c5.png)
+![image](https://user-images.githubusercontent.com/53411455/139564380-649946f0-4be4-49f4-9bce-15b7033f54c5.png)
 
 
                    
